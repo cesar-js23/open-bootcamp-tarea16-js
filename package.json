@@ -1,0 +1,16 @@
+{
+  "name": "tarea-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "Cesar Julian <cesar.julian23@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
